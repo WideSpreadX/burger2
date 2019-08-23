@@ -11,6 +11,7 @@
     "password": "rv7mp52zqfgo4c59",
     "database": "dy9nh9xzvni1mb37",
     "host": "b4e9xxkxnpu2v96i.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "port": "3306",
     "dialect": "mysql"
   }
 }
