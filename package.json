@@ -1,5 +1,5 @@
 {
-  "name": "Burger 2",
+  "name": "node_what_todo",
   "version": "1.0.0",
   "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
   "main": "server.js",
@@ -14,7 +14,7 @@
     "express-handlebars": "^3.0.0",
     "mysql": "^2.12.0",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.16.0"
+    "sequelize": "^4.41.2"
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
